@@ -8,3 +8,5 @@ and adding them to a playlist.
 This uses google's tesseract to analyze a Pixel 7a screenshot to find the add
 to playlist button. I did this because the add to playlist button could appear in two different
 locations which is a huge pain to deal with. Text recognition is the solution.
+
+The main program to run is `run.sh` which calls `main.py` and `tesser.py`.
